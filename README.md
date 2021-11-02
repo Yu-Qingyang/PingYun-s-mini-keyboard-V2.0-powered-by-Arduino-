@@ -1,4 +1,4 @@
-# PingYun-s-mini-keyboard-V2.0-powered-by-Arduino-
+# PingYun-s-mini-keyboard-V2.0-powered-by-Arduino
 An Arduino Leonardo driven numeric keypad.Currently, the following functions have been implemented: 
 
 0: Fully rely on Arduino, using the form of expansion board, low difficulty to achieve 
@@ -10,3 +10,5 @@ An Arduino Leonardo driven numeric keypad.Currently, the following functions hav
 3: multi-mode adjustment, including fast filling C language C++ and other basic operation functions. 
 
 4: Rich extensibility, you can write macros by yourself, control mouse and keyboard, and realize some Bad USB functions
+
+Hardwares : https://oshwhub.com/phantom001/my-keyboard_copy
